@@ -1,1 +1,5 @@
-# mrafaelbatista-uniesp_p1_flask_sample
+#Projeto P1BTech
+
+## Dados do criador
+-email - dkelvens@hotmail.com
+-Estudante de Sistema para Internet
